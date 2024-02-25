@@ -9,13 +9,24 @@ xmlns:hxCore="http://schemas.microsoft.com/clr-namespace/HelixToolkit.Wpf.Core;a
         mc:Ignorable="d"
         Title="Main Menu" Height="450" Width="800">
     <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="307*"/>
+            <ColumnDefinition Width="93*"/>
+        </Grid.ColumnDefinitions>
 
-        <TextBox x:Name="FileURL" Margin="0,0,362,367" TextWrapping="Wrap" Height="18" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="408"/>
-        <Button x:Name="Browser" Content="Browser" Margin="0,0,257,367" Click="Browser_Click" Width="82" Height="23" VerticalAlignment="Bottom" HorizontalAlignment="Right"/>
-        <ComboBox x:Name="ExtensionList" Margin="0,0,674,328" SelectionChanged="ExtensionList_SelectionChanged" Height="23"  Width="96" VerticalAlignment="Bottom" HorizontalAlignment="Right"/>
-        <Label Content="File Path" Margin="0,0,692,385" Width="81" Height="26" VerticalAlignment="Bottom" HorizontalAlignment="Right" RenderTransformOrigin="0.471,0.905"/>
-        <Button x:Name="Convert" Content="Convert" Margin="146,0,558,328" Click="Convert_Click" Height="24" VerticalAlignment="Bottom"/>
-        <Button x:Name="Preview" Content="Preview" Margin="0,0,673,289" Height="23" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="97" Click="Preview_Click"/>
+        <TextBox x:Name="FileURL" Margin="0,0,176,367" TextWrapping="Wrap" Height="18" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="408"/>
+        <Button x:Name="Browser" Content="Browser" Margin="0,0,71,367" Click="Browser_Click" Width="82" Height="23" VerticalAlignment="Bottom" HorizontalAlignment="Right"/>
+        <ComboBox x:Name="ExtensionList" Margin="0,0,488,328" SelectionChanged="ExtensionList_SelectionChanged" Height="23"  Width="96" VerticalAlignment="Bottom" HorizontalAlignment="Right"/>
+        <Label Content="File Path" Margin="0,0,506,385" Width="81" Height="26" VerticalAlignment="Bottom" HorizontalAlignment="Right" RenderTransformOrigin="0.471,0.905"/>
+        <Button x:Name="Convert" Content="Convert" Margin="146,0,372,328" Click="Convert_Click" Height="24" VerticalAlignment="Bottom"/>
+        <Button x:Name="Preview" Content="Preview" Margin="0,0,487,289" Height="23" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="97" Click="Preview_Click"/>
+        <ComboBox x:Name="cbFolder" HorizontalAlignment="Left" Margin="180,262,0,0" VerticalAlignment="Top" Width="118"/>
+        <Label Content="Select folder Google Drive" HorizontalAlignment="Left" Margin="24,258,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnUpload" Content="Upload" HorizontalAlignment="Left" Margin="180,321,0,0" VerticalAlignment="Top" Width="65" Height="21" Click="btnUpload_Click"/>
+        <TextBox x:Name="txbNameDriveFolder" HorizontalAlignment="Left" Margin="30,171,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnCreateDriveFolder" Content="Create folder" HorizontalAlignment="Left" Margin="30,0,0,0" VerticalAlignment="Center" Width="96" Height="24" Click="btnCreateDriveFolder_Click"/>
+        <Button Content="Open" HorizontalAlignment="Left" Margin="315,262,0,0" VerticalAlignment="Top" Width="45" Click="Button_Click"/>
+        <Label x:Name="lbNameFileDrive" Content="" FontSize="13" HorizontalAlignment="Left" Margin="180,290,0,0" VerticalAlignment="Top"/>
 
 
     </Grid>
