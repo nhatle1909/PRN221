@@ -10,12 +10,30 @@
     <Compile Update="3DModelPreview.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\3DModelView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainMenuView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WelcomeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="3DModelPreview.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\3DModelView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainMenuView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WelcomeView.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
