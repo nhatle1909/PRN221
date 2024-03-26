@@ -118,12 +118,33 @@
                 </Grid>
 
                 <Grid Grid.Row="1">
-                    <helix:HelixViewport3D  x:Name="viewPort3d" ZoomExtentsWhenLoaded="true" Margin="10,0,0,0" Height="452" VerticalAlignment="Top" HorizontalAlignment="Left" Width="535" Background="White" InfoBackground="#80FFFFFF" InfoForeground="{x:Null}" Panel.ZIndex="1" >
+                    <helix:HelixViewport3D  x:Name="viewPort3d" ZoomExtentsWhenLoaded="true" Height="452" VerticalAlignment="Top" HorizontalAlignment="Center" Width="776" Background="White" InfoBackground="#80FFFFFF" InfoForeground="{x:Null}" Panel.ZIndex="1" >
                         <!-- Remember to add light to the scene -->
                         <helix:DefaultLights/>
                     </helix:HelixViewport3D>
+
+                    <Border CornerRadius="10"      
+                            BorderThickness="2"
+                            Opacity="0.9" Margin="32,459,32,27">
+
+                        <Border.BorderBrush>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                <GradientStop Color="#462AD8" Offset="0"/>
+                                <GradientStop Color="#DA34AE" Offset="0.75"/>
+                                <GradientStop Color="#8A16C1" Offset="1"/>
+                            </LinearGradientBrush>
+                        </Border.BorderBrush>
+
+                        <TextBlock  x:Name="Rotation"
+                                    Background="Transparent" 
+                                    VerticalAlignment="Center"
+                                    Foreground="White"
+                                    TextAlignment="Left" Margin="8,0,8,0"></TextBlock>
+                    </Border>
                     <Label Content="Label" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="390" Width="535" Background="Black"/>
                 </Grid>
+
+
             </Grid>
         </Border>
 

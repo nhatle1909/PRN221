@@ -581,7 +581,7 @@
                              Foreground="White"
                              Background="Transparent"
                              BorderThickness="0"
-                             VerticalAlignment="Top" Width="264" Height="28"/>
+                             VerticalAlignment="Center" Width="264" Height="28"/>
                 </Border>
 
                 <Border CornerRadius="10"      

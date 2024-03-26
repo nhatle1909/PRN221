@@ -11,42 +11,50 @@
       "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:views\\3dmodelview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|c:\\users\\quang\\onedrive\\desktop\\new folder\\prn221\\views\\mainmenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:views\\mainmenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|c:\\users\\quang\\onedrive\\desktop\\new folder\\prn221\\convert3dobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:convert3dobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|c:\\users\\quang\\onedrive\\desktop\\new folder\\prn221\\views\\mainmenuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\matrix3dextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:matrix3dextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\views\\mainmenuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:views\\mainmenuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|c:\\users\\quang\\onedrive\\desktop\\new folder\\prn221\\views\\welcomeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:views\\welcomeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\views\\mainmenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:views\\mainmenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|c:\\users\\quang\\onedrive\\desktop\\new folder\\prn221\\views\\welcomeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:views\\welcomeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|c:\\users\\quang\\onedrive\\desktop\\new folder\\prn221\\mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|c:\\users\\quang\\onedrive\\desktop\\new folder\\prn221\\3dmodelpreview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:3dmodelpreview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|c:\\users\\quang\\onedrive\\desktop\\new folder\\prn221\\3dmodelpreview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\3dmodelpreview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:3dmodelpreview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|c:\\users\\quang\\onedrive\\desktop\\new folder\\prn221\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\views\\welcomeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:views\\welcomeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\views\\welcomeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:views\\welcomeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\3dmodelpreview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:3dmodelpreview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Quang\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|c:\\users\\quang\\onedrive\\desktop\\new folder\\prn221\\mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10749143-5B16-4976-9F6F-BE5E57E3A667}|Convert3DObject.csproj|solutionrelative:mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -57,7 +65,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -80,12 +88,38 @@
               "ToolTip": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Views\\3DModelView.xaml",
               "RelativeToolTip": "Views\\3DModelView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-04T09:47:41.292Z",
+              "WhenOpened": "2024-03-26T03:22:47.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3DModelView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Views\\3DModelView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\3DModelView.xaml.cs",
+              "ToolTip": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Views\\3DModelView.xaml.cs",
+              "RelativeToolTip": "Views\\3DModelView.xaml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAUwEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:22:38.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Convert3DObject",
+              "DocumentMoniker": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Convert3DObject.csproj",
+              "RelativeDocumentMoniker": "Convert3DObject.csproj",
+              "ToolTip": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Convert3DObject.csproj",
+              "RelativeToolTip": "Convert3DObject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T03:22:24.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainMenuView.xaml",
               "DocumentMoniker": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Views\\MainMenuView.xaml",
               "RelativeDocumentMoniker": "Views\\MainMenuView.xaml",
@@ -97,70 +131,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "WelcomeView.xaml",
               "DocumentMoniker": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Views\\WelcomeView.xaml",
               "RelativeDocumentMoniker": "Views\\WelcomeView.xaml",
               "ToolTip": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Views\\WelcomeView.xaml",
               "RelativeToolTip": "Views\\WelcomeView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-04T09:57:19.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T09:57:19.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainMenuView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Views\\MainMenuView.xaml.cs",
               "RelativeDocumentMoniker": "Views\\MainMenuView.xaml.cs",
               "ToolTip": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Views\\MainMenuView.xaml.cs",
               "RelativeToolTip": "Views\\MainMenuView.xaml.cs",
-              "ViewState": "AQIAAIgAAAAAAAAAAAAAAJwAAAAcAAAA",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAMwKsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T09:48:42.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T09:48:42.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "3DModelPreview.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\3DModelPreview.xaml.cs",
               "RelativeDocumentMoniker": "3DModelPreview.xaml.cs",
               "ToolTip": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\3DModelPreview.xaml.cs",
               "RelativeToolTip": "3DModelPreview.xaml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAsAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T09:48:04.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T09:48:04.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "3DModelView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Views\\3DModelView.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\3DModelView.xaml.cs",
-              "ToolTip": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Views\\3DModelView.xaml.cs",
-              "RelativeToolTip": "Views\\3DModelView.xaml.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAMwC4AAAAZAAAA",
+              "DocumentIndex": 3,
+              "Title": "Matrix3DExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Matrix3DExtensions.cs",
+              "RelativeDocumentMoniker": "Matrix3DExtensions.cs",
+              "ToolTip": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Matrix3DExtensions.cs",
+              "RelativeToolTip": "Matrix3DExtensions.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwCIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T09:47:32.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T10:19:20.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "MainMenu.xaml",
               "DocumentMoniker": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\MainMenu.xaml",
               "RelativeDocumentMoniker": "MainMenu.xaml",
               "ToolTip": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\MainMenu.xaml",
               "RelativeToolTip": "MainMenu.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-04T09:48:00.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T09:48:00.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "WelcomeView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\Views\\WelcomeView.xaml.cs",
               "RelativeDocumentMoniker": "Views\\WelcomeView.xaml.cs",
@@ -168,24 +197,22 @@
               "RelativeToolTip": "Views\\WelcomeView.xaml.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAADEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T10:09:56.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T10:09:56.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "3DModelPreview.xaml",
               "DocumentMoniker": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\3DModelPreview.xaml",
               "RelativeDocumentMoniker": "3DModelPreview.xaml",
               "ToolTip": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\3DModelPreview.xaml",
               "RelativeToolTip": "3DModelPreview.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-04T09:48:17.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T09:48:17.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -197,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ResourcePart.cs",
               "DocumentMoniker": "C:\\Users\\Quang\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
@@ -205,12 +232,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
               "ViewState": "AQIAABsAAAAAAAAAAAAEwCcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T10:02:22.173Z",
-              "EditorCaption": " [Read Only]"
+              "WhenOpened": "2024-03-04T10:02:22.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "MainMenu.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Quang\\OneDrive\\Desktop\\New folder\\PRN221\\MainMenu.xaml.cs",
               "RelativeDocumentMoniker": "MainMenu.xaml.cs",
@@ -218,8 +244,7 @@
               "RelativeToolTip": "MainMenu.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T10:02:48.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T10:02:48.354Z"
             }
           ]
         },

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HelixToolkit.Wpf;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,6 +28,7 @@ namespace Convert3DObject.Views
             InitializeComponent();
             _model = model;
             DisplayModel();
+            CompositionTarget.Rendering += OnRendering;
         }
 
         private void Window_MouseDown(object sender, System.Windows.Input.MouseEventArgs e)
@@ -56,5 +58,20 @@ namespace Convert3DObject.Views
             viewPort3d.Children.Add(modelVisual);
             viewPort3d.Camera.UpDirection = new Vector3D(0, 1, 0);
         }
+
+        private void OnRendering(object sender, EventArgs e)
+        {
+            if (viewPort3d.Camera is PerspectiveCamera camera)
+            {
+                var position = camera.Position;
+                var lookDirection = camera.LookDirection;
+                var upDirection = camera.UpDirection;
+
+                // Display the camera's position and orientation
+                Rotation.Text = $"Position: {position}, LookDirection: {lookDirection}, UpDirection: {upDirection}";
+            }
+        }
+
+
     }
 }

@@ -10,9 +10,6 @@
     <Compile Update="3DModelPreview.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\3DModelView.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Update="Views\MainMenuView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
